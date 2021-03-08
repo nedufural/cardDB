@@ -5,35 +5,40 @@
     "CARD_BANK": "ALPHA BANK OF ALBANIA",
     "CARD_NUMBER": "4532481457279546",
     "NAME": "Jack Chatterjee",
-    "EXPIRY_DATE": "02/23"
+    "EXPIRY_DATE": "02/23",
+    "CARD_BACKGROUND":"R.drawable.card_1"
   },
   {
     "CARD_BRAND": "PRIVATE LABEL",
     "CARD_BANK": "AZIZI BANK",
     "CARD_NUMBER": "4916133208899512",
     "NAME": "Pranay Dixit",
-    "EXPIRY_DATE": "04/21"
+    "EXPIRY_DATE": "04/21",
+    "CARD_BACKGROUND":"R.drawable.card_2"
   },
   {
     "CARD_BRAND": "RED FUEL CARD",
     "CARD_BANK": "AZIZI BANK",
     "CARD_NUMBER": "4532546531450360",
     "NAME": "Silvana Delvalle",
-    "EXPIRY_DATE": "10/22"
+    "EXPIRY_DATE": "10/22",
+    "CARD_BACKGROUND":"R.drawable.card_3"
   },
   {
     "CARD_BRAND": "MASTERCARD",
     "CARD_BANK": "AZIZI BANK",
     "CARD_NUMBER": "4485938408962360",
     "NAME": "জলিল আলী",
-    "EXPIRY_DATE": "12/22"
+    "EXPIRY_DATE": "12/22",
+    "CARD_BACKGROUND":"R.drawable.card_4"
   },
   {
     "CARD_BRAND": "MASTERCARD",
     "CARD_BANK": "CSCBANK S.A.L.",
     "CARD_NUMBER": "4653059900599000",
     "NAME": "করিম তাসনীম",
-    "EXPIRY_DATE": "04/22"
+    "EXPIRY_DATE": "04/22",
+    "CARD_BACKGROUND":"R.drawable.card_5"
   }
 ]
 }
